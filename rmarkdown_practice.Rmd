@@ -36,4 +36,13 @@ By the end of the course,students will be able to:
 * Use [Github](www.github.com) or creating a reproducible research document.
 
      -- My GitHub username is: _hkim222_
+
+* Obtain, clean, transform, and visualize a dataset using the R programming language.
+
+* Interpret and predict dataset trends using statistical inference and models.
+
+* Critically examine and interpret statistical claims reported in mass media.
     
+# Including Code
+
+##Running R code in a code chunk
