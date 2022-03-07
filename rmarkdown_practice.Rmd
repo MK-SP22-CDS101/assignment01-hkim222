@@ -27,7 +27,6 @@ urlcolor: blue
 
 <!-- Write your Markdown below this line -->
 #Section 
-
 **section00**
 
 #Course Goals
@@ -44,7 +43,6 @@ By the end of the course,students will be able to:
 * Critically examine and interpret statistical claims reported in mass media.
     
 # Including Code
-
 ##Running R code in a code chunk
 
 x <- 2+2
@@ -59,4 +57,5 @@ The second line of output is printed out instead, but this means that the calcul
 
 ## Displaying Graphs
 
-ggplot2: :qplot(data = iris, x = Sepal.Length, y = Sepal.Width)
+ggplot2::qplot(data = iris, x = Sepal.Length, y = Sepal.Width)
+
